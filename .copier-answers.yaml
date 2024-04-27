@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.8.1
+_src_path: gh:radio-aktywne/template-devcontainer
+accountname: radio-aktywne
+description: Devcontainer for Helm charts ⛵
+devcontainername: helm
+docs: true
+docsurl: https://radio-aktywne.github.io/devcontainer-helm
+imagename: devcontainers/helm
+registry: true
+releases: true
+reponame: devcontainer-helm
+repourl: https://github.com/radio-aktywne/devcontainer-helm
